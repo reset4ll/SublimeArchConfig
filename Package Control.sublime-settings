@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"BracketHighlighter",
+		"gruvbox",
+		"LSP",
+		"LSP-clangd",
+		"LSP-gopls",
+		"LSP-pyright",
+		"LSP-rust-analyzer",
+		"Lua Love",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Theme - One Dark",
+	],
+}
