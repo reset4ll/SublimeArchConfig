@@ -19,6 +19,7 @@
     "vintage_start_in_command_mode": true,
     "translate_tabs_to_spaces": true,
     "vintage_ctrl_keys": true,
+    "relative_line_numbers": true,    
 
     // UI selection
     "word_wrap": false,
