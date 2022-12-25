@@ -4,7 +4,7 @@
 	"theme": "Default Dark.sublime-theme",
 	 
     // fonts and sizing
-    "font_size": 13,
+    "font_size": 11,
     "font_face": "Fira Code",
     "font_options": [
         "subpixel_antialias",
@@ -19,8 +19,8 @@
     "vintage_start_in_command_mode": true,
     "translate_tabs_to_spaces": true,
     "vintage_ctrl_keys": true,
-    "relative_line_numbers": true,    
-
+    "relative_line_numbers": true,
+    
     // UI selection
     "word_wrap": false,
     "draw_minimap_border": true,
