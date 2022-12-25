@@ -1,10 +1,30 @@
 {
-	"ignored_packages":
-	[
-		"Vintage",
-	],
-	"theme": "gruvbox.sublime-theme",
-	"font_face": "Iosevka Term",
-	"font_size": 14,
-	"color_scheme": "gruvbox (Dark) (Medium).sublime-color-scheme",
+    // color themes
+	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+	"theme": "OneDarkMaterial.sublime-theme",
+	 
+    // fonts and sizing
+    "font_size": 13,
+    "font_face": "Fira Code",
+    "font_options": [
+        "subpixel_antialias",
+        "gray_antialias",
+        "dlig",
+        "ss01",
+    ], 
+
+    // setting VIM
+    "ignored_packages": [
+    ],
+    "vintage_start_in_command_mode": true,
+    "translate_tabs_to_spaces": true,
+    "vintage_ctrl_keys": true,
+
+    // UI selection
+    "word_wrap": false,
+    "draw_minimap_border": true,
+    "highlight_line": true,
+    "block_caret": true,
+    "draw_white_space": ["selection", "trailing"],
+
 }
