@@ -1,7 +1,7 @@
 {
     // color themes
-	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
-	"theme": "OneDarkMaterial.sublime-theme",
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"theme": "Default Dark.sublime-theme",
 	 
     // fonts and sizing
     "font_size": 13,
