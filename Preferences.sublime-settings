@@ -4,6 +4,8 @@
 	"theme": "Default Dark.sublime-theme",
 	 
     // fonts and sizing
+    // -- VARIACION:
+    // "ui_scale": 1.2 & "font_size": 9 en MackBook Pro
     "font_size": 11,
     "font_face": "Fira Code",
     "font_options": [
